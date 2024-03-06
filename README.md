@@ -7,13 +7,15 @@ I'm a 23 year-old IT Risk & Securitymanager based in Germany, and I'm passionate
 
 
 ## 🛠 Toolbox
-Frontend: React, Material-UI
+Frontend: React, JavaScript, Html, Css, Bootstrap, Material-UI
 
 Skripting: Python, Bash, Powershell
 
 Testing: Postman, Burp Suite
 
 Offensive Testing: nmap, Metasploit
+
+Other: C++
 ## ✨Fun facts
 
 - Disassemble Lego sets and create new starships is my childhood
