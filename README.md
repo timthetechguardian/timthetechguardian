@@ -1,15 +1,15 @@
 # Hey, I'm Tim 👋
 
 
-I'm a 23 year-old IT Risk & Securitymanager based in Germany, and I'm passionate about security engineering, web development and pentesting.
+I'm a 24 year-old IT Risk & Securitymanager based in Germany, and I'm passionate about security engineering, web development and risk-management.
 
 
 ## 🛠 Toolbox
-Web-Development: MERN-Stack, MSAL
+Web-Development: HTML, CSS, React native, Next.js (Typescript), mySQL, MongoDB, Express, Python FastAPI
 
 Skripting: Python, Bash, Powershell
 
-Testing: Postman, Burp Suite
+Testing: Postman, Burp Suite, Swagger
 
 Offensive Testing: nmap, Metasploit
 
